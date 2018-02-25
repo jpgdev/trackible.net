@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trackible.Server", "Trackible.Server\Trackible.Server.csproj", "{A75705C5-5618-4840-9398-FDA46CF28866}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trackible.Shared", "Trackible.Shared\Trackible.Shared.csproj", "{C0214022-79E0-4AB7-8795-4554863D064D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A75705C5-5618-4840-9398-FDA46CF28866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75705C5-5618-4840-9398-FDA46CF28866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75705C5-5618-4840-9398-FDA46CF28866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75705C5-5618-4840-9398-FDA46CF28866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0214022-79E0-4AB7-8795-4554863D064D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0214022-79E0-4AB7-8795-4554863D064D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0214022-79E0-4AB7-8795-4554863D064D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0214022-79E0-4AB7-8795-4554863D064D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
